@@ -6,10 +6,14 @@ this is the www folder from the phonegap generated "hello world" demo, modified 
 to build: either:
 
 replace www folder on generated app e.g.:
+```
 > phonegap create my-compass
 > phonegap platform add iOS
+```
 copy the www folder to replace the default www folder
+```
 >phonegap prepare
+```
 open xCode
 build and run on device
 
