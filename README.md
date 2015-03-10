@@ -14,5 +14,12 @@ open xCode
 build and run on device
 
 use phonegap build service:
-TODO
+visit: https://build.phonegap.com
+copy & paster the URL to this repo into PGB service page
+add provisioning keys for platform if required
+download with QRCode reader
+
+#current problem
+on Android with PGB, I get the result: "COMPASSERROR: CLASS NOT FOUND"
+
 
