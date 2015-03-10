@@ -10,9 +10,9 @@ replace www folder on generated app e.g.:
 > phonegap create my-compass
 > phonegap platform add iOS
 ```
-copy the www folder to replace the default www folder
+copy the www folder to replace the default www folder, then:
 ```
->phonegap prepare
+> phonegap prepare
 ```
 open xCode
 build and run on device
